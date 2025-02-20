@@ -20,4 +20,4 @@ We are currently meeting Wednesdays 5:30-7pm in [Soda 510](https://maps.app.goo.
 
 We welcome and encourage all members of the UC Berkeley community. Questions of AI and society span engineering, humanities, law, business, the sciences, and the social sciences, so the more perspectives and thoughtful participants, the better.
 
-If you are interested in joining the dicussion, [please fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSceIrUOOvAwuGH2pxHdVyBM5r_yohZ1cJhqVcOI15Sul_4KBw/viewform?usp=dialog) to request access to our mailing list for the latest information and events. If you have suggestions for future speakers or other topics you'd like to discuss, please contact the [organizing team](https://ai-and-society.github.io/organizers). 
+If you are interested in joining the mailing list or suggesting a speaker for future meetings (self-nominations welcome!), [please fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSceIrUOOvAwuGH2pxHdVyBM5r_yohZ1cJhqVcOI15Sul_4KBw/viewform?usp=dialog). If you have other topics you'd like to discuss, please contact the [organizing team](https://ai-and-society.github.io/organizers). 
