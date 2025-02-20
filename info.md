@@ -10,8 +10,8 @@ The UC Berkeley AI & Society Community is an interdisciplinary working group. Ou
 ## Events
 We are currently meeting Wednesdays 5:30-7pm in [Soda 510](https://maps.app.goo.gl/Gp2N9GjRPWgH232X6), with 3 lightning speakers for each sessions.
 
-* 2/19/2025: Lightning talks from Swabha Swayamdipta, Serena Booth, and Zoe Kahn
-* 2/05/2025: First-ever mixer (80+ attendees!)
+* 02/19/2025: Lightning talks from [Swabha Swayamdipta](https://swabhs.com/), [Serena Booth](https://slbooth.com/), and [Zoe Kahn](https://zoebkahn.github.io/)
+* 02/05/2025: First-ever mixer (80+ attendees!)
 
 ### Join the discussion
 
