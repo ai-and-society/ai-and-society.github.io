@@ -14,3 +14,7 @@ Edit `/people.md` .
 ## Theme
 
 We are using the Whiteglass theme from Jekyll. 
+
+## Remove tabs
+
+Use `navigation.yml`

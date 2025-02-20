@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.author }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MIT AI Ethics&Policy
-author: Andreas Haupt
-description: Speaker events on AI Ethics & Policy at MIT
-title_img: "https://mitaiethics.github.io/assetss/robot_color.png"
+title: UC Berkeley AI and Society
+author: Irene Chen
+description: AI and Society group at UC Berkeley
+title_img: "https://ai-and-society.github.io/assets/robot_color.png"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mitaiethics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ai-and-society.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
 exclude:
