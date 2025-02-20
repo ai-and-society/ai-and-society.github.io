@@ -14,7 +14,7 @@ For Spring 2025, we are currently meeting every other Wednesday 5:30-7pm in [Sod
 
 * (upcoming) 02/26/2025: Lightning talks and minging ([RSVP here](https://docs.google.com/forms/d/e/1FAIpQLSdUAaZG9MRFKxqSk8fMdfXDp5k9_KNBRZpnj46CMEpuoL2dbg/viewform?usp=dialog))
 * 02/19/2025: Lightning talks from [Swabha Swayamdipta](https://swabhs.com/), [Serena Booth](https://slbooth.com/), and [Zoe Kahn](https://zoebkahn.github.io/)
-* 02/05/2025: First-ever mixer (80+ attendees!)
+* 02/05/2025: First-ever mixer (100+ attendees!)
 
 ### Join the discussion
 
