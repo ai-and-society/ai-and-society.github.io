@@ -26,7 +26,6 @@ Deborah Raji is a Mozilla Fellow and EECS PhD student, who is interested in ques
 
 
 <img src="/assets/headshots/colleen.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-Colleen Chien is a Professor of Law with research on innovation, intellectual property, artificial intelligence, and the criminal justice system. She is a Co-Director of the Berkeley Center for Law & Technology, Faculty Advisor to the Berkeley Criminal Law & Justice Center, and has also had the honor of working part-time as a public servant, in the Obama White House as a Senior Advisor, Intellectual Property and Innovation and more recently on the Biden-Harris Transition Team and senior counselor to the Department of Commerce and Marian Coak distinguished scholar at the United States Patent and Trademark Office. 
-  
+Colleen Chien is a Professor of Law who applies a range of empirical and analytical methods to problems in innovation, intellectual property, artificial intelligence, and the criminal justice system. She is the founder of the Paper Prisons Initiative (<a href="https://paperprisons.org">paperprisons.org</a>) and a winner of the American Law Institute’s Early Career Award. She has testified numerous times before Congress and has had the privilege of serving in the Obama White House and in the Biden Administration, for the Department of Commerce and the US Patent and Trademark Office.  
 </p>
 <br>
