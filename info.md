@@ -12,7 +12,7 @@ The UC Berkeley AI & Society Community is an interdisciplinary working group. Ou
 ## Events
 For Spring 2025, we are currently meeting every other Wednesday 5:30-7pm in [Soda 510](https://maps.app.goo.gl/Gp2N9GjRPWgH232X6) with speakers, social mingling, and food at each session.
 
-* (upcoming!) 04/02/2025: Conversation between [Ben Recht](https://people.eecs.berkeley.edu/~brecht/) and [Marion Fourcade](http://www.marionfourcade.org/) ([RSVP here](Professor of Sociology))
+* (upcoming!) 04/02/2025: Conversation between [Ben Recht](https://people.eecs.berkeley.edu/~brecht/) and [Marion Fourcade](http://www.marionfourcade.org/) ([RSVP here]([Professor of Sociology](https://docs.google.com/forms/d/e/1FAIpQLSdZvi1vGBbwzwLzCFh3A6uyzizS8-Qgy82PpvfgrTx6XViYoQ/viewform?usp=dialog)))
 * 03/12/2025: Talk from [Allison Jerzak](https://allisonjerzak.com/) and minging 
 * 02/26/2025: Lightning talks from [Meredith Lee](https://cdss.berkeley.edu/people/meredith-lee) and [Leah Walker](https://gspp.berkeley.edu/directories/staff-administration/leah-walker), [Lauren Chambers](https://laurenmarietta.github.io/), and [Valentina Angel](https://www.law.berkeley.edu/our-faculty/faculty-profiles/valentina-rozo-angel/)
 * 02/19/2025: Lightning talks from [Swabha Swayamdipta](https://swabhs.com/), [Serena Booth](https://slbooth.com/), and [Zoe Kahn](https://zoebkahn.github.io/)
