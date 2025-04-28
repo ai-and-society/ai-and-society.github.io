@@ -12,7 +12,7 @@ The UC Berkeley AI & Society Community is an interdisciplinary working group. Ou
 ## Events
 For Spring 2025, we are currently meeting every other Wednesday 5:30-7pm in [Soda 510](https://maps.app.goo.gl/Gp2N9GjRPWgH232X6) with speakers, social mingling, and food at each session. Unusual times will be noted.
 
-* (Upcoming!) 05/01/2025: The Economics of Online Platforms talks from [Daphne Keller](https://cyber.fsi.stanford.edu/people/daphne-keller), [Jennifer King](https://hai.stanford.edu/people/jennifer-king), and [Alireza Fallah](https://afallah.lids.mit.edu/). ([RSVP here](https://forms.gle/2xJQbF5BGGBj2MsH7) -- **Note this event Thurs 3-4:30pm in Soda 510**)
+* (Upcoming!) 05/01/2025: The Economics of Online Platforms talks from [Daphne Keller](https://cyber.fsi.stanford.edu/people/daphne-keller), [Jennifer King](https://hai.stanford.edu/people/jennifer-king), and [Alireza Fallah](https://afallah.lids.mit.edu/). ([RSVP here](https://forms.gle/2xJQbF5BGGBj2MsH7)) -- **Note this event Thurs 3-4:30pm in Soda 510**
 * 04/16/2025: Education and AI talks from Professors [Zachary A. Pardos](https://bse.berkeley.edu/zachary-pardos) and [Gireeja Ranade]([http://www.marionfourcade.org/](https://people.eecs.berkeley.edu/~gireeja/)) ([RSVP here](https://docs.google.com/forms/d/e/1FAIpQLSfYKkME5UeVfjdVlzG0shJVS_nbT_jI9gIYXletuxzUboStHA/viewform?usp=dialog))
 * 04/02/2025: Conversation on [The Ordinal Society](https://www.hup.harvard.edu/books/9780674971141) between Professors [Ben Recht](https://people.eecs.berkeley.edu/~brecht/) and [Marion Fourcade](http://www.marionfourcade.org/) 
 * 03/12/2025: Music and AI talk from [Allison Jerzak](https://allisonjerzak.com/) and mingling 
