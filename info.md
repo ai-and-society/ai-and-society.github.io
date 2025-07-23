@@ -12,7 +12,7 @@ The UC Berkeley AI & Society Community is an interdisciplinary working group. Ou
 ## Events
 We are currently on summer hiatus. Stay tuned for future events!
 
-For Fall 2025, we will every other week in [Soda 510](https://maps.app.goo.gl/Gp2N9GjRPWgH232X6) with speakers, social mingling, and food at each session. 
+For Fall 2025, we will meet every other week in [Soda 510](https://maps.app.goo.gl/Gp2N9GjRPWgH232X6) with speakers, social mingling, and food at each session. 
 
 
 * (upcoming!) 09/11/2025: Conversation on [Empire of AI](https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/) with [Karen Hao](https://karendhao.com/)
