@@ -10,9 +10,9 @@ The UC Berkeley AI & Society Community is an interdisciplinary working group. Ou
 
 
 ## Events
-In Fall 2025, we will meet every other week in [Soda 510](https://maps.app.goo.gl/Gp2N9GjRPWgH232X6) with speakers, mingling, and food at each event. 
+In Fall 2025, we will meet every other week, usually in [Soda 510](https://maps.app.goo.gl/Gp2N9GjRPWgH232X6) unless otherwise noted.
 
-* (upcoming!) 09/11/2025: Conversation on [Empire of AI](https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/) with [Karen Hao](https://karendhao.com/) ([RSVP here](https://docs.google.com/forms/d/e/1FAIpQLSfyQINDs-HMIzfDf755BxGqwmzVR_031eJejClC685fOYXJBw/viewform?usp=sharing&ouid=104405218447014494764))
+* (upcoming!) 09/11/2025: Conversation on [Empire of AI](https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/) with [Karen Hao](https://karendhao.com/) ([RSVP here](https://docs.google.com/forms/d/e/1FAIpQLSfyQINDs-HMIzfDf755BxGqwmzVR_031eJejClC685fOYXJBw/viewform?usp=sharing&ouid=104405218447014494764)) in [310 SDH](https://www.berkeley.edu/map/sutardja-dai-hall/)
 * 05/01/2025: The Economics of Online Platforms talks from [Daphne Keller](https://cyber.fsi.stanford.edu/people/daphne-keller), [Jennifer King](https://hai.stanford.edu/people/jennifer-king), and [Alireza Fallah](https://afallah.lids.mit.edu/). 
 * 04/16/2025: Education and AI talks from Professors [Zachary A. Pardos](https://bse.berkeley.edu/zachary-pardos) and [Gireeja Ranade]([http://www.marionfourcade.org/](https://people.eecs.berkeley.edu/~gireeja/)) 
 * 04/02/2025: Conversation on [The Ordinal Society](https://www.hup.harvard.edu/books/9780674971141) between Professors [Ben Recht](https://people.eecs.berkeley.edu/~brecht/) and [Marion Fourcade](http://www.marionfourcade.org/) 
