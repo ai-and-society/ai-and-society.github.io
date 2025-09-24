@@ -12,7 +12,8 @@ The UC Berkeley AI & Society Community is an interdisciplinary working group. Ou
 ## Events
 In Fall 2025, we will meet every other week, usually in [Soda 510](https://maps.app.goo.gl/Gp2N9GjRPWgH232X6) unless otherwise noted.
 
-* (upcoming!) 09/24/2025: AI and democracy talk from [Spencer Overton](https://www.law.gwu.edu/spencer-overton) ([RSVP here](https://forms.gle/ZCihYrqRj8L9WV147))
+* 10/02/2025: AI Con Book Launch featuring authors [Emily Bender](https://faculty.washington.edu/ebender/) and [Alex Hanna](https://alex-hanna.com/) as well as roundtable participants [Tamara Kneese](https://www.tamarakneese.com/), [Timnit Gebru](https://www.dair-institute.org/team/timnit-gebru/), and [Khari Johnson](https://calmatters.org/author/khari-johnson/) in 470 Stephens Hall ([RSVP here](https://forms.gle/p6Yd71D5AHgGuHFr5)) -- **Note the location is 470 Stephens Hall, event is 4-5:30pm**
+* 09/24/2025: AI and democracy talk from [Spencer Overton](https://www.law.gwu.edu/spencer-overton) ([RSVP here](https://forms.gle/ZCihYrqRj8L9WV147))
 * 09/11/2025: Conversation on [Empire of AI](https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/) with [Karen Hao](https://karendhao.com/) in [310 SDH](https://www.berkeley.edu/map/sutardja-dai-hall/) 
 * 05/01/2025: The Economics of Online Platforms talks from [Daphne Keller](https://cyber.fsi.stanford.edu/people/daphne-keller), [Jennifer King](https://hai.stanford.edu/people/jennifer-king), and [Alireza Fallah](https://afallah.lids.mit.edu/). 
 * 04/16/2025: Education and AI talks from Professors [Zachary A. Pardos](https://bse.berkeley.edu/zachary-pardos) and [Gireeja Ranade]([http://www.marionfourcade.org/](https://people.eecs.berkeley.edu/~gireeja/)) 
