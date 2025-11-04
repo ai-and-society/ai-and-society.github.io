@@ -12,6 +12,7 @@ The UC Berkeley AI & Society Community is an interdisciplinary working group. Ou
 ## Events
 In Fall 2025, we will meet every other week, usually in [Soda 510](https://maps.app.goo.gl/Gp2N9GjRPWgH232X6) unless otherwise noted.
 
+* 11/04/2025: Social, no agenda
 * 10/02/2025: [AI Con](https://cstms.berkeley.edu/ai-con-book-launch-roundtable) book launch featuring authors [Emily Bender](https://faculty.washington.edu/ebender/) and [Alex Hanna](https://alex-hanna.com/) as well as roundtable participants [Tamara Kneese](https://www.tamarakneese.com/), [Timnit Gebru](https://www.dair-institute.org/team/timnit-gebru/), and [Khari Johnson](https://calmatters.org/author/khari-johnson/) in 470 Stephens Hall ([RSVP here](https://forms.gle/p6Yd71D5AHgGuHFr5)) -- **Note the location is 470 Stephens Hall, event is 4-5:30pm**
 * 09/24/2025: AI and democracy talk from [Spencer Overton](https://www.law.gwu.edu/spencer-overton) ([RSVP here](https://forms.gle/ZCihYrqRj8L9WV147))
 * 09/11/2025: Conversation on [Empire of AI](https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/) with [Karen Hao](https://karendhao.com/) in [310 SDH](https://www.berkeley.edu/map/sutardja-dai-hall/) 
