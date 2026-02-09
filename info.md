@@ -12,7 +12,7 @@ The UC Berkeley AI & Society Community is an interdisciplinary working group. Ou
 ## Events
 In Spring 2026, we will have a somewhat irregular schedule. Please consult email list or this website for the latest events. Events held in [Soda 510](https://maps.app.goo.gl/Gp2N9GjRPWgH232X6) unless otherwise noted.
 
-* 03/11/2026 (upcoming!): AI and democracy talk with [Larry Norden](https://www.brennancenter.org/about/leadership/lawrence-norden) ([RSVP here](https://forms.gle/s4uGYGFGU3AGesqg7))
+* 03/11/2026 (upcoming!): AI and democracy talk with [Larry Norden](https://www.brennancenter.org/about/leadership/lawrence-norden) ([RSVP here](https://docs.google.com/forms/d/e/1FAIpQLSdt7Bb6Vkz6YAWWHxKt-Z-GATfE8FFlxfRsWgCNp9ZbSbx0Hw/viewform?usp=dialog))
 * 03/05/2026 (upcoming!): AI and China talk with [Helen Toner](https://cset.georgetown.edu/staff/helen-toner/) ([RSVP here](https://forms.gle/U5DX1AK5n35A7F8n7))
 * 02/03/2026: AI and climate talk from [Tamma Carleton](https://www.tammacarleton.com/) 
 * 11/04/2025: Social, no agenda
