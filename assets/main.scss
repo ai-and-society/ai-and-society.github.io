@@ -47,3 +47,8 @@ $on-laptop:        800px;
 
 // Import partials from the `whiteglass` theme.
 @import "whiteglass";
+
+// Organizer headshots: gently rounded, not circular.
+.headshot {
+  border-radius: 10px;
+}
