@@ -10,7 +10,7 @@ The UC Berkeley AI & Society Initiative is an interdisciplinary working group. O
 
 
 ## Events
-Stay tuned for our first meeting of the Fall 2026 semester in the Gateway building!
+**Next meeting — 09/23/2026:** AI and cybersecurity with [Clarence Chio](https://www.ischool.berkeley.edu/people/clarence-chio) and [Chris Hoofnagle](https://www.law.berkeley.edu/our-faculty/faculty-profiles/chris-hoofnagle/), Wednesday 5:30–7:00 PM, location TBD. [RSVP here](https://forms.gle/5GqTvf2mFrED4k9X8).
 
 Prior events:
 * 03/11/2026: AI and democracy talk with [Larry Norden](https://www.brennancenter.org/about/leadership/lawrence-norden)
