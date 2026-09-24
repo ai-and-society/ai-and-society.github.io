@@ -11,6 +11,7 @@ The UC Berkeley AI & Society Initiative is an interdisciplinary working group. O
 
 ## Events
 **Upcoming — 10/15/2026:** , AI and ethics with [Mathias Risse](https://www.mathiasrisse.com/about-cv). More details TBD.
+
 **Upcoming — 11/20/2026:** , AI and institutions with [Jessica Silbey](https://en.wikipedia.org/wiki/Jessica_Silbey). More details TBD.
 
 Prior events:
