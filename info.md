@@ -14,7 +14,7 @@ The UC Berkeley AI & Society Initiative is an interdisciplinary working group. O
 
 **Upcoming — 11/20/2026:** AI and institutions with [Jessica Silbey](https://en.wikipedia.org/wiki/Jessica_Silbey). More details TBD.
 
-**Upcoming — 12/15/2026:** "What can religion and spirituality teach us about AI and vice versa?" with [Rabbi Zvika Krieger](https://www.zvikakrieger.com/), [Nikki Mirghafori](https://www.nikkimirghafori.com/), and [Timothy Ahn](https://aiandfaith.org/member/tim-ahn/). More details TBD.
+**Upcoming — 12/04/2026:** "What can religion and spirituality teach us about AI and vice versa?" with [Rabbi Zvika Krieger](https://www.zvikakrieger.com/), [Nikki Mirghafori](https://www.nikkimirghafori.com/), and [Timothy Ahn](https://aiandfaith.org/member/tim-ahn/). 12:00–2:00 PM, location TBD.
 
 Prior events:
 * 09/23/2026: AI and cybersecurity with [Clarence Chio](https://www.ischool.berkeley.edu/people/clarence-chio), [Chris Hoofnagle](https://www.law.berkeley.edu/our-faculty/faculty-profiles/chris-hoofnagle/), and [Starchy Grant](https://www.eff.org/about/staff/starchy-grant)
