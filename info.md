@@ -10,13 +10,12 @@ The UC Berkeley AI & Society Initiative is an interdisciplinary working group. O
 
 
 ## Events
-**Upcoming — 10/15/2026:** "Who Gets to Decide What AI is For?" with [Mathias Risse](https://www.mathiasrisse.com/about-cv), [Jessica Dai](http://jessicad.ai/), and [Humphrey Obuobi](https://www.linkedin.com/in/hobuobi). 5:30–7:00 PM, Gateway 1420. [RSVP here](https://forms.gle/au4L1Bsr3qUzTQheA).
-
-**Upcoming — 11/20/2026:** AI and institutions with [Jessica Silbey](https://en.wikipedia.org/wiki/Jessica_Silbey). More details TBD.
+**Upcoming — 11/20/2026:** AI and institutions with [Jessica Silbey](https://en.wikipedia.org/wiki/Jessica_Silbey). Gateway 1420. More details TBD.
 
 **Upcoming — 12/04/2026:** "What can religion and spirituality teach us about AI and vice versa?" with [Rabbi Zvika Krieger](https://www.zvikakrieger.com/), [Nikki Mirghafori](https://www.nikkimirghafori.com/), and [Timothy Ahn](https://aiandfaith.org/member/tim-ahn/). 12:00–2:00 PM, location TBD.
 
 Prior events:
+* 10/15/2026: "Who Gets to Decide What AI is For?" with [Mathias Risse](https://www.mathiasrisse.com/about-cv), [Jessica Dai](http://jessicad.ai/), and [Humphrey Obuobi](https://www.linkedin.com/in/hobuobi)
 * 09/23/2026: AI and cybersecurity with [Clarence Chio](https://www.ischool.berkeley.edu/people/clarence-chio), [Chris Hoofnagle](https://www.law.berkeley.edu/our-faculty/faculty-profiles/chris-hoofnagle/), and [Starchy Grant](https://www.eff.org/about/staff/starchy-grant)
 * 03/11/2026: AI and democracy talk with [Larry Norden](https://www.brennancenter.org/about/leadership/lawrence-norden)
 * 03/05/2026: AI and China talk with [Helen Toner](https://cset.georgetown.edu/staff/helen-toner/) 
