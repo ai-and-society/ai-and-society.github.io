@@ -16,7 +16,7 @@ The UC Berkeley AI & Society Initiative is an interdisciplinary working group. O
 
 Prior events:
 * 10/15/2026: "Who Gets to Decide What AI is For?" with [Mathias Risse](https://www.mathiasrisse.com/about-cv), [Jessica Dai](http://jessicad.ai/), and [Humphrey Obuobi](https://www.linkedin.com/in/hobuobi) ([video](https://www.youtube.com/watch?v=3-ubpQKXpso))
-* 09/23/2026: AI and cybersecurity with [Clarence Chio](https://www.ischool.berkeley.edu/people/clarence-chio), [Chris Hoofnagle](https://www.law.berkeley.edu/our-faculty/faculty-profiles/chris-hoofnagle/), and [Starchy Grant](https://www.eff.org/about/staff/starchy-grant) ([video](https://www.youtube.com/watch?v=qFO_tKpiG1g))
+* 09/23/2026: AI and cybersecurity with [Clarence Chio](https://www.ischool.berkeley.edu/people/clarence-chio), [Chris Hoofnagle](https://www.law.berkeley.edu/our-faculty/faculty-profiles/chris-hoofnagle/), and [Starchy Grant](https://www.eff.org/about/staff/starchy-grant) ([video](https://www.youtube.com/watch?v=qFO_tKpiG1g), [blog post by Luigi Previti](https://ucberkeleyaiandsociety.substack.com/p/how-can-we-put-individual-safeguards), [blog post by Ohm Rajpal](https://ucberkeleyaiandsociety.substack.com/p/ai-agents-hacked-hugging-face-but))
 * 03/11/2026: AI and democracy talk with [Larry Norden](https://www.brennancenter.org/about/leadership/lawrence-norden)
 * 03/05/2026: AI and China talk with [Helen Toner](https://cset.georgetown.edu/staff/helen-toner/) 
 * 02/03/2026: AI and climate talk from [Tamma Carleton](https://www.tammacarleton.com/)
